@@ -1,7 +1,9 @@
-var message = "Aziz"
-let msg1 = "Akbar"
-const msg2 = "29"
+var NamaDepan = "Aziz"
+let NamaBelakang = "Akbar"
+const Umur = "29"
 
-console.log(message)
-console.log(msg1)
-console.log(msg2)
+console.log(NamaDepan);
+console.log(NamaBelakang);
+console.log(Umur);
+
+
